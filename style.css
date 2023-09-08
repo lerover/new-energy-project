@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+/* the first part has started here */
+
+.the-first-part{
+    background: url("https://thumbs.dreamstime.com/z/cartoon-happy-eolian-character-illustration-funny-wind-turbine-smiling-summer-ocean-landscape-background-seagulls-33085332.jpg") no-repeat fixed right;
+    width: 100%;
+    height: 100vh;
+    background-size: 40%;
+    
+}   
+
+
+.top-nav{
+    height: 50px;
+    display:flex;
+    justify-content:space-around;
+    box-shadow: 2px 3px 5px 0px rgba(84,83,83,0.75);
+}
+
+
+
+.title-of-top-nav{
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+    font-size: 25px;
+}
+.nav-bar-buttons{
+    width: 30%;
+    height: 50px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.the-first-part .container-of-the-first-part {    
+    width: 60%;
+    height: 80vh;
+    
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.the-first-part .container-of-the-first-part .title-part-card-first-part{
+    font-family: 'Merriweather', serif;
+    font-weight: 800;
+    font-size: 60px;
+    display: block;
+}
+
+.the-first-part .container-of-the-first-part .text-card-first-part{
+    font-weight: 700;
+    font-size: 30px;
+    display: block;
+}
+
+
+.the-first-part .container-of-the-first-part .card-first-part{
+    background: transparent;
+    
+    width: 70%;
+}
+
+/* the first part has ended here */
+
+
+
